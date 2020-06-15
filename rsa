@@ -1,0 +1,46 @@
+#!/usr/bin/python3
+""" Gets two first prime factors of any number """
+from sys import argv, stderr
+import math
+
+
+if len(argv) != 2:
+    stderr.write("Usage: factors <file>\n")
+    exit(1)
+
+
+def checkPrime(num):
+    """ Check if number is prime """
+    i = 3
+    if num % 2 == 0:
+        return False
+    while i * i <= num:
+        if num % i == 0:
+            return False
+        i += 2
+    return True
+
+
+def factorNumber(num):
+    """ Calculates factor prime number """
+    if num % 2 == 0:
+        i = 2
+        print("{:d}={:d}*{:d}".format(num, int(num/i), i))
+    else:
+        fa = math.sqrt(num)
+        if fa % 1 == 0:
+            print("{:d}={:d}*{:d}".format(num, int(num/i), i))
+            return
+        fa = int(fa) + 1
+        for i in range(3, fa, +2):
+            if num % i == 0:
+                if checkPrime(i):
+                    print("{:d}={:d}*{:d}".format(num,
+                                                  int(num/i),
+                                                  i))
+                    return
+
+
+with open(argv[1], 'r') as f:
+    for line in f:
+        factorNumber(int(line))
