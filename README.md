@@ -12,9 +12,9 @@
   <p align="center">
         <em>--</em>
     <br /><br />
-    <a href="https://github.com/fredhii/RSA-Factoring-Challenge.git/issues">Report Bug</a>
+    <a href="https://github.com/fredhii/RSA-Factoring-Challenge/issues">Report Bug</a>
     ·
-    <a href="https://github.com/fredhii/RSA-Factoring-Challenge.git/issues">Request Feature</a>
+    <a href="https://github.com/fredhii/RSA-Factoring-Challenge/issues">Request Feature</a>
   </p>
 </p>
 
@@ -30,13 +30,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/fredhii/RSA-Factoring-Challenge.git?style=flat-square
-[contributors-url]: https://github.com/fredhii/RSA-Factoring-Challenge.git/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/fredhii/RSA-Factoring-Challenge.git.svg?style=flat-square
-[forks-url]: https://github.com/fredhii/RSA-Factoring-Challenge.git/network/members
-[stars-shield]: https://img.shields.io/github/stars/fredhii/RSA-Factoring-Challenge.git.svg?style=flat-square
-[stars-url]: https://github.com/fredhii/RSA-Factoring-Challenge.git/stargazers
-[issues-shield]: https://img.shields.io/github/issues/fredhii/RSA-Factoring-Challenge.git?style=flat-square
-[issues-url]: https://github.com/fredhii/RSA-Factoring-Challenge.git/issues
+[contributors-shield]: https://img.shields.io/github/contributors/fredhii/RSA-Factoring-Challenge?style=flat-square
+[contributors-url]: https://github.com/fredhii/RSA-Factoring-Challenge/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fredhii/RSA-Factoring-Challenge.svg?style=flat-square
+[forks-url]: https://github.com/fredhii/RSA-Factoring-Challenge/network/members
+[stars-shield]: https://img.shields.io/github/stars/fredhii/RSA-Factoring-Challenge.svg?style=flat-square
+[stars-url]: https://github.com/fredhii/RSA-Factoring-Challenge/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fredhii/RSA-Factoring-Challenge?style=flat-square
+[issues-url]: https://github.com/fredhii/RSA-Factoring-Challenge/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/fredhii
